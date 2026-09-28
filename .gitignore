@@ -1,0 +1,17 @@
+# Python & PyTorch cache
+__pycache__/
+*.pyc
+
+# Dataset downloads (MNIST)
+data/
+MNIST/
+./data/
+
+# Model checkpoints
+*.pt
+*.pth
+
+# Colab / Jupyter environment
+.ipynb_checkpoints/
+.config/
+sample_data/
